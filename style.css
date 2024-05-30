@@ -1,0 +1,28 @@
+body{
+    background: rgb(16, 116, 197);
+    font: normal 15 pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+ /*  Como ambas as divs podem ser alinhadas juntas, usaremos o seletor apenas das divs */
+ div{
+    text-align: center;
+    padding: 8px;
+ }
+section{
+    background : white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    
+
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
